@@ -1,7 +1,7 @@
 ![Ironhack logo](https://i.imgur.com/1QgrNNw.png)
 
 # Lab | Web Scraping
-
+...........
 ![nosotros chorizeando datos](https://camo.githubusercontent.com/2354ca5c82a93a2e2e779eb7cd4ab29516a662910bbafcc358f4b6b190f74201/68747470733a2f2f7265637572736f732e6270732e636f6d2e65732f66696c65732f3636352f30302e6a7067)
 
 ## Introduction
